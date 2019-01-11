@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sagar-gavhane/weight-watchers.git"
+    "url": "git+https://github.com/arpitshri81/weight-watchers.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sagar-gavhane/weight-watchers/issues"
+    "url": "https://github.com/arpitshri81/weight-watchers/issues"
   },
-  "homepage": "https://github.com/sagar-gavhane/weight-watchers#readme",
+  "homepage": "https://github.com/arpitshri81/weight-watchers#readme",
   "dependencies": {
     "aws-sdk": "^2.315.0",
     "body-parser": "^1.18.3",
